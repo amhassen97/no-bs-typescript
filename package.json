@@ -1,0 +1,24 @@
+{
+  "name": "no-bs-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "basics.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amhassen97/no-bs-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amhassen97/no-bs-typescript/issues"
+  },
+  "homepage": "https://github.com/amhassen97/no-bs-typescript#readme",
+  "devDependencies": {
+    "ts-node": "^10.2.1",
+    "typescript": "^4.3.5"
+  }
+}
